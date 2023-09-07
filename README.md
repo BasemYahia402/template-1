@@ -6,7 +6,7 @@ A website template is a pre-designed layout or structure for a website that can 
 
 ## Skills Used
 
-It's built with [ HTML5 / CSS3 ].
+It's built with [ HTML5 / CSS3 / Js ].
 
 ## Installation
 
